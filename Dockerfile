@@ -5,7 +5,7 @@ CMD ["date"]
 
 #base image
 FROM busybox:latest
-CMD ["date"]
+CMD ["time"]
 
 
 
