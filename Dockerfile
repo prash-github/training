@@ -4,5 +4,5 @@ FROM alpine
 
 MAINTAINER prashant
 
-CMD ["echo", "Hello to all"]
+CMD ["echo", "Hello and Hi"]
 
