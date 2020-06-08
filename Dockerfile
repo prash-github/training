@@ -1,2 +1,2 @@
-FROM busybox:latest
+FROM ubuntu
 CMD ["date"]
