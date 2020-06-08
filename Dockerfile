@@ -1,4 +1,4 @@
 #base image
-FROM alpine 
+FROM ubuntu
 CMD ["echo", "Hello World to Docker"]
 
