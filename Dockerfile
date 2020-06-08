@@ -4,5 +4,5 @@ FROM alpine
 
 MAINTAINER prashant
 
-CMD ["echo", "Hello World to Docker"]
+CMD ["echo", "Hello to all"]
 
